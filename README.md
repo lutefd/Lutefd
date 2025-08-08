@@ -1,4 +1,4 @@
-I'm a software engineer currently working at Hurb, with a knack for diving into way too many side projects in my free time.
+I'm a software engineer currently working at Mercado Livre, with a knack for diving into way too many side projects in my free time.
 
 Always open to tech discussions and collaborations, feel free to reach out through [email](mailto:luis@lutheir.com?subject=Hey) or [bluesky](https://bsky.luisdourado.com/).
 
