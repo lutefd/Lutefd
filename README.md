@@ -1,12 +1,11 @@
-I'm a software engineer currently working at Mercado Livre, with a knack for diving into way too many side projects in my free time.
+# Luis Dourado
 
-Always open to tech discussions and collaborations, feel free to reach out through [email](mailto:lfaddourado@gmail.com?subject=Hey).
+Senior Software Engineer at [Mercado Livre](https://www.mercadolivre.com.br) backend and distributed systems for high-traffic commerce.
 
-## Tech Stack
+I work on services, APIs, and production operations: performance, cross-service design, event-driven patterns, reliability.
 
-- **Backend**: Go (primary), Java (Spring Boot), Python (FastAPI, Django), Node.js, Deno
-- **Frontend**: Experienced with Next.js/React, Svelte/SvelteKit, and Astro
-- **Data & AI**: Currently following Andrew Ng's and Karpathy courses. Exploring [ML Stash](https://arc.net/e/D242E263-31FD-4CF9-A2D5-B67519C049AF?s=08)
-- **Current Focus**: CLI apps, orchestrated services, DSA & ML
+**Stack:** Go · Java · TypeScript · Python  
 
+**Elsewhere:** [luisdourado.com](https://www.luisdourado.com/) · [LinkedIn](https://linkedin.com/in/luisfadourado)
 
+Public repos here are mostly experiments and one-offs.
